@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "5.0.1",
   "private": true,
-  "homepage": "https://gamalhal.github.io",
+  "homepage": "https://gamalhal.github.io/my-react-app-moive-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
